@@ -1,3 +1,19 @@
+## Spotify-React-Clone 🚀
+
+This project uses all react concepts, asks user to login from their own spotify account and see their playlists, account image.
+
+### Click here to view demo [View Demo](https://spotify-react-clone-ac430.web.app/)
+
+<!-- ### DEMO Capture
+<img src="screenshorts/covid.gif"> -->
+
+### Checkout some screenshots below
+<img src="screenshorts/spotify-clone-home.png">
+<img src="screenshorts/spotify-clone.png">
+<img src="screenshorts/spotify-user-auth.png">
+
+<!-- ### Click here to view demo [View Demo](https://covid19-react-tracker-78175.web.app/) -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
