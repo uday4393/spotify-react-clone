@@ -5,14 +5,14 @@ This project uses all react concepts, asks user to login from their own spotify 
 ### Click here to view demo [View Demo](https://spotify-react-clone-ac430.web.app/)
 
 ### DEMO Capture
-<img src="screenshots/demo.gif">
+<img src="src/screenshots/demo.gif">
 
 ### Checkout some screenshots below
-<img src="screenshots/spotify-home.png">
-<img src="screenshots/spotify-home2.png">
-<img src="screenshots/spotify-clone-home.png">
-<img src="screenshots/spotify-clone.png">
-<img src="screenshots/spotify-user-auth.png">
+<img src="src/screenshots/spotify-home.png">
+<img src="src/screenshots/spotify-home2.png">
+<img src="src/screenshots/spotify-clone-home.png">
+<img src="src/screenshots/spotify-clone.png">
+<img src="src/screenshots/spotify-user-auth.png">
 
 ### Click here to view demo [View Demo](https://spotify-react-clone-ac430.web.app/)
 
